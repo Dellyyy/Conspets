@@ -1,7 +1,7 @@
 # 📚 Конспекты
 
 
-| Предмет | Статус |
+| Предмет | Ссылка |
 |:--------|:------:|
 | **План обучения** | [Перейти](https://docs.google.com/document/d/1Qh3yHiJUUpfhHvKUcbQl8SawXZe-FR7qNzdZWeFgKlM/edit?pli=1&tab=t.0) |
 | **Численные методы** | [Перейти](https://drive.google.com/drive/folders/1QfZ8bb8wfTZIwQVKEpVjCkC8o98utvxm?usp=sharing) |
